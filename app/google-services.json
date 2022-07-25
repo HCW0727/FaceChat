@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "736653989532",
+    "project_id": "facetime-b11d4",
+    "storage_bucket": "facetime-b11d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:736653989532:android:b6fcf1ef5b5ad9b42ebf59",
+        "android_client_info": {
+          "package_name": "com.opt.facetime"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "736653989532-a5tnf1id0re5jujju2s4cr8avialkopk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opt.facetime",
+            "certificate_hash": "d2372115b6fa62296ebc5dad8650c733fcc665d4"
+          }
+        },
+        {
+          "client_id": "736653989532-4iikegan47et6uvd96tka7q705d0enob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbs26YSPseyGMHb9FWrDMyT9i0jT8Knwc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "736653989532-4iikegan47et6uvd96tka7q705d0enob.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
